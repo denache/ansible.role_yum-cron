@@ -4,7 +4,7 @@
 CentOS: Automatic Updates
 
 ### Requirements
-
+None
 ### Role Variables
 
 ### Dependencies
